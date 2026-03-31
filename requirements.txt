@@ -35,3 +35,5 @@ ujson==5.10.0
 Unidecode
 wikipedia==1.4.0
 youtube-search-python==1.6.6
+pyrogram>=2.0
+tgcrypto
