@@ -9,8 +9,7 @@ from sys import exit as sysexit
 from sys import stdout, version_info
 from time import time
 from traceback import format_exc
-
-import lyricsgenius
+# import lyricsgenius
 import pyrogram
 import pytz
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
